@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoelezeInterteck
-- 👀 I’m interested in web application and mobile apps development.
-- 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on Web application mobile application.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning Expert
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning in Nigeria Center for Artificial Intelligence and Robotics #NCAIR
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Machine Learning research and projects.
 - 📫 How to reach me +2347066819424
 
 <!---
